@@ -1,0 +1,85 @@
+.mid-text{
+	text-align: center;
+}
+.some-space{
+	
+	padding-top:20px;
+	padding-bottom:20px;
+}
+.myline-1{
+	margin-top: 20px;
+border:1px solid grey;
+margin-left: 5%;
+margin-right: 5%;
+}
+.myline-2{
+border:1px solid grey;
+margin-left: 5%;
+margin-right: 5%;
+}
+
+.payme{
+	font-weight: 700px;
+}
+
+.note{
+	color: green;
+	font-size: 14px;
+	font-weight: 500;
+}
+
+#bring-it-top{
+	/*border:1px solid green;*/
+	margin-top: -100px;
+}
+
+.cost{
+	  background-color: lightblue;
+	  padding: 10px;
+	  border-radius: 7px;
+}
+.bitcoin-text{
+	text-align: center; 
+	margin-top: 10px; 
+	padding-top: 10px;
+margin-bottom: -30;
+	margin-top: 20px;
+	color: darkgreen;
+	font-weight: 400;
+}
+
+.bitcoin-text-2{
+	text-align: center; 
+	margin-top: 10px; 
+	padding-top: 10px;
+margin-bottom: -30;
+	margin-top: 20px;
+	color: indigo;
+	font-weight: 600;
+}
+
+#num{
+	color: #fff;
+	font-weight: 570;
+}
+
+.paypal-btn{
+border:1px solid green;
+}
+
+/*laptop*/
+  @media (min-width:601px) {
+.image-responsiveness{
+	margin-left: 10%;
+	margin-right: 10%;
+	max-width: 100%;
+	
+}
+}
+/*simu*/
+  @media (max-width:600px) {
+
+.image-responsiveness{
+	width: 100%;
+}
+}
