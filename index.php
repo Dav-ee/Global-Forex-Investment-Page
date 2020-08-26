@@ -14,7 +14,9 @@ if ($_SERVER['HTTPS'] != "on") {
 <head>
 	     <meta charset="utf-8">
   <meta http-equiv="content language" content="en-us" />  
+
     <title>CHEAP AND AFFORDABLE Forex Trading Signals</title>
+       <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <link rel="icon" type="image/png" href="assets/img/home.ico"/>
 
 
